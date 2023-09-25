@@ -1,0 +1,10 @@
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\bin\Debug\ZipWizard.exe.config
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\bin\Debug\ZipWizard.exe
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\bin\Debug\ZipWizard.pdb
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\obj\Debug\ZipWizard.csproj.AssemblyReference.cache
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\obj\Debug\ZipWizard.Form1.resources
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\obj\Debug\ZipWizard.Properties.Resources.resources
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\obj\Debug\ZipWizard.csproj.GenerateResource.cache
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\obj\Debug\ZipWizard.csproj.CoreCompileInputs.cache
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\obj\Debug\ZipWizard.exe
+C:\Users\coderpsycho\Desktop\Projects\C#\ZipWizard\ZipWizard\obj\Debug\ZipWizard.pdb
