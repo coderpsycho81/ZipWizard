@@ -1,7 +1,7 @@
 # Explanation
 The ZipWizard project I've created is coded using C# WinForms. Here is how it works: After selecting either the file or folder option, you can choose the file path and click 'Compress' to zip your file. You can perform the same operation by choosing 'Extract'.
 
-<img src="https://github.com/coderpsycho81/YoutubeDownloader/blob/main/Ads%C4%B1z.png" alt="alt text" width="320" height="180">
+<img src="https://github.com/coderpsycho81/ZipWizard/blob/main/ZipWizard.png" alt="alt text" width="320" height="180">
 
 # 💫 About Me:
 💎I'm Software Engineer<br>💻I'm Game Developer & AR-VR Game Developer<br>👨🏻‍💻I'm Full Stack Developer<br>👾I'm C# Desktop Application Developer<br>🕵🏻I'm Cyber Security Tools Developer
